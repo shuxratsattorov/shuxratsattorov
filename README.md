@@ -4,10 +4,9 @@
 <p align="left"><b>Python Developer</b> with a strong focus on backend development, APIs, and automation.  
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects. </p>
 
-
-<table>
+<table cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td>
+    <td valign="top">
       <ul>
         <li>🔭 I’m currently working on <a href="https://t.me/storyshadowbot">Story Shadow Bot</a></li>
         <li>🌱 I’m currently learning <b>Go (Golang)</b></li>
@@ -17,7 +16,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
         <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" />
       </p>
     </td>
-    <td>
+    <td valign="top">
       <a href="https://github.com/shawnstanton">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstanton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
@@ -29,9 +28,6 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
     </td>
   </tr>
 </table>
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
