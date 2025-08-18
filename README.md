@@ -7,8 +7,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" /> </p>
 
-- 🔭 I’m currently working on **Story Shadow Bot**
-- 🔭 I’m currently working on [sdvsvds](google.com)
+- 🔭 I’m currently working on [Story Shadow Bot](https://t.me/@storyshadowbot)
 
 - 🌱 I’m currently learning **Go (Golang)**
 
