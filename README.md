@@ -12,8 +12,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" /> </p>
 
 
-<!-- Top Languages (compact) — shawnstanton -->
-<p align="center">
+<p align="right">
   <a href="https://github.com/shawnstanton">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstanton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
