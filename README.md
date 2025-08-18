@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/Kj6pzpg3/Baixe-Vetores-Imagens-Fotos-e-V-deos-Gratuitos.jpg" alt="image"/> 
+<img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image"/> 
 
 <h2 align="left">Hi There!</h2>
 <p align="left"><b>Python Developer</b> with a strong focus on backend development, APIs, and automation.  
