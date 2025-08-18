@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/XYxWT24V/banner-1000x300.png)
+<img src="https://i.postimg.cc/XYxWT24V/banner-1000x300.png" alt="image"/> 
 
 <h2 align="left">Hi There!</h2>
 <p align="left"><b>Python Developer</b> with a strong focus on backend development, APIs, and automation.  
