@@ -4,13 +4,12 @@
 <p align="left"><b>Python Developer</b> with a strong focus on backend development, APIs, and automation.  
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects. </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" /> </p>
-
 - 🔭 I’m currently working on [Story Shadow Bot](https://t.me/storyshadowbot)
 
 - 🌱 I’m currently learning **Go (Golang)**
 
 - 📫 How to reach me **shuhratsattorov2004@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
