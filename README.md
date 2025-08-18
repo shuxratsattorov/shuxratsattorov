@@ -23,7 +23,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
           alt="Top Languages for shawnstanton"
           loading="lazy"
           width="400"
-          hight="50"
+          hight="10"
         />
       </a>
     </td>
