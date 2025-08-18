@@ -25,7 +25,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstanton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
           alt="Top Languages for shawnstanton"
           loading="lazy"
-          width="300"
+          width="320"
           hight="10"
         />
       </a>
