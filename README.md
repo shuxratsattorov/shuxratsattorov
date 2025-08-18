@@ -71,9 +71,3 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuxratsattorov&show_icons=true&locale=en&layout=compact" alt="shuxratsattorov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuxratsattorov&show_icons=true&locale=en" alt="shuxratsattorov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuxratsattorov&" alt="shuxratsattorov" /></p>
