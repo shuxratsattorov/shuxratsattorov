@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/XYxWT24V/banner-1000x300.png)
+(https://i.postimg.cc/XYxWT24V/banner-1000x300.png)
 
 <h1 align="center">Hi 👋, I'm Shuxrat</h1>
 <h3 align="center">I am a passionate web developer with a strong focus on Python backend development. With 1 years of experience in the industry, I have worked on various projects and gained expertise in building robust and scalable web applications. My technical skills and dedication to delivering high-quality solutions enable me to contribute effectively to any development team.</h3>
