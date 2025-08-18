@@ -11,8 +11,9 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 - 📫 How to reach me **shuhratsattorov2004@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" /> </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstanton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=shuxratsattorov&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstanton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)" alt="shuxratsattorov" /></p>
 
 
 
