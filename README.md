@@ -11,13 +11,13 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 - 📫 How to reach me **shuhratsattorov2004@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" /> </p>
 
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=shuxratsattorov&show_icons=true&locale=en&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api?username=shuxratsattorov&show_icons=true&locale=en&theme=tokyonight" 
     alt="shuxratsattorov" 
   />
 </p>
+
 
 
 
