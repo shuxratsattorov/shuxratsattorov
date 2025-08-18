@@ -1,8 +1,8 @@
 <img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image"/> 
 
-<h2 align="left">Hi There!</h2>
-<p align="left"><b>Python Developer</b> with a strong focus on backend development, APIs, and automation.  
-I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects. </p>
+<h3 align="left">Hi There!</h3>
+<2 align="left"><b>Python Developer</b> with a strong focus on backend development, APIs, and automation.  
+I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects. </2>
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
