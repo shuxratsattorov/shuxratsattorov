@@ -5,31 +5,31 @@
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects. </p>
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-  <!-- Chap blok -->
-  <div>
-    <ul>
-      <li>🔭 I’m currently working on <a href="https://t.me/storyshadowbot">Story Shadow Bot</a></li>
-      <li>🌱 I’m currently learning <b>Go (Golang)</b></li>
-      <li>📫 How to reach me <b>shuhratsattorov2004@gmail.com</b></li>
-    </ul>
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" />
-    </p>
-  </div>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <a href="https://t.me/storyshadowbot">Story Shadow Bot</a></li>
+        <li>🌱 I’m currently learning <b>Go (Golang)</b></li>
+        <li>📫 How to reach me <b>shuhratsattorov2004@gmail.com</b></li>
+      </ul>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" />
+      </p>
+    </td>
+    <td>
+      <a href="https://github.com/shawnstanton">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstanton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+          alt="Top Languages for shawnstanton"
+          loading="lazy"
+          width="400"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- O‘ng blok -->
-  <div>
-    <a href="https://github.com/shawnstanton">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstanton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-        alt="Top Languages for shawnstanton"
-        loading="lazy"
-        style="width: 400px; height: auto;"
-      />
-    </a>
-  </div>
-</div>
 
 
 
