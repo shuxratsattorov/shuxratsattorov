@@ -2,9 +2,8 @@
 
 <h2 align="left">Hi There!</h2>
 
-<p align="left">
-  <font size="6">Python Developer</font><br>
-  Strong focus on backend development, APIs, and automation.
+<p><b>Python Developer </b> with a strong focus on backend development, APIs, and automation.  
+I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
 </p>
 
 
