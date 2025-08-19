@@ -1,6 +1,7 @@
 <img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image"/> 
 
 <h2 align="left">Hi There!</h2>
+<img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" />
 
 <p><b>Python Developer </b> with a strong focus on backend development, APIs, and automation.  
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
@@ -17,9 +18,6 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
         <li>📫 Email <b>shuhratsattorov2004@gmail.com</b></li>
         <li>📞 Phone <b>+998(90)427-83-39</b></li>
       </ul>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" />
-      </p>
     </td>
     <td valign="top">
       <a href="https://github.com/shawnstanton">
