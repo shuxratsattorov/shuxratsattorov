@@ -1,4 +1,4 @@
-<a href="">
+<a>
 <img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image">
 </a>
 
