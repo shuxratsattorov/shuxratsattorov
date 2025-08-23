@@ -19,7 +19,8 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 <p align="left">
 <a href="https://instagram.com/strv.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="str.13" height="30" width="40" /></a>
 </p>
-<i class="fa-brands fa-instagram"></i>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/db1b58ab-32f3-445a-97cf-acf0f4cb14d1" />
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
