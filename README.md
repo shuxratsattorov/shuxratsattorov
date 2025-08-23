@@ -1,9 +1,15 @@
 <img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image"/> 
 
-<h2>Hi There!</h2><br>
-<p><b>Python Developer </b> with a strong focus on backend development, APIs, and automation.  
-I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h2>Hi There!</h2><br>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+    </td>
+  </tr>
+</table>
 
 
 <table cellpadding="0" cellspacing="0" border="0">
