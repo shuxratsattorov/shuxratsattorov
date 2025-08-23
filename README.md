@@ -1,4 +1,6 @@
+<a href="https://github.com/shawnstanton">
 <img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image">
+</a>
 
 <h2>Hi There!</h2>
 
@@ -13,16 +15,6 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
   <li>📫 Email <b>shuhratsattorov2004@gmail.com</b></li>
   <li>📞 Phone <b>+998(90)427-83-39</b></li>
 </ul>
-
-<a href="https://github.com/shawnstanton">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstanton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-    alt="Top Languages for shawnstanton"
-    width="320"
-    height="10"/>
-</a>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
