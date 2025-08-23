@@ -6,30 +6,23 @@
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
 </p>
 
-<table cellpadding="0" cellspacing="0" border="0" style="border: none; outline: none;">
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>🏢 Company <a href="https://t.me/storyshadowbot">Mars IT school</a></li>
-        <li>🔭 I’m currently working on <a href="https://t.me/storyshadowbot">Story Shadow Bot</a></li>
-        <li>🌱 I’m currently learning <b>Go (Golang)</b></li>
-        <li>📫 Email <b>shuhratsattorov2004@gmail.com</b></li>
-        <li>📞 Phone <b>+998(90)427-83-39</b></li>
-      </ul>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/shawnstanton">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstanton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-          alt="Top Languages for shawnstanton"
-          loading="lazy"
-          width="320"
-          height="10"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<ul>
+  <li>🏢 Company <a href="https://t.me/storyshadowbot">Mars IT school</a></li>
+  <li>🔭 I’m currently working on <a href="https://t.me/storyshadowbot">Story Shadow Bot</a></li>
+  <li>🌱 I’m currently learning <b>Go (Golang)</b></li>
+  <li>📫 Email <b>shuhratsattorov2004@gmail.com</b></li>
+  <li>📞 Phone <b>+998(90)427-83-39</b></li>
+</ul>
+
+<a href="https://github.com/shawnstanton">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnstanton&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    alt="Top Languages for shawnstanton"
+    width="320"
+    height="10"/>
+</a>
+
 
 
 <h3 align="left">Connect with me:</h3>
