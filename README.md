@@ -20,6 +20,8 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 <a href="https://instagram.com/strv.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="str.13" height="30" width="40" /></a>
 </p>
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/db1b58ab-32f3-445a-97cf-acf0f4cb14d1" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8ff53f98-4d0c-4769-a197-9b3cb6b99622" />
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
