@@ -17,7 +17,10 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 
 <h3 align="left">Social:</h3
                           
-<img height="40" width="40" alt="image" src="https://github.com/user-attachments/assets/ceaf16b6-5def-4382-9dfb-0a7804a2a633" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0a690376-d2ec-414b-ac3e-89416e0b74e0" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6b18d3d7-cb90-4866-9459-f6159b2f5d75" />
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
