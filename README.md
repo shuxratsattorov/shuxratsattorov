@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image"/> 
+<img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image" style="pointer-events: none;">
 
 <h2>Hi There!</h2>
 
