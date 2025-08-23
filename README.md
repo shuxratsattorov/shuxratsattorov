@@ -2,8 +2,9 @@
 
 <table width="100%">
   <tr>
-    <td align="left"><h2>Hi There!</h2></td>
-    </br>
+    <td align="left">
+      <h2>Hi There!</h2><br>
+    </td>
     <td align="right">
       <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
     </td>
