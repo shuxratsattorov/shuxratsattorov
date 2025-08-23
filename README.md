@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image"/> 
 
-<img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" />
+<img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=blueviolet&style=flat" alt="shuxratsattorov" />
 <h2 align="left">Hi There!</h2>
 
 <p><b>Python Developer </b> with a strong focus on backend development, APIs, and automation.  
