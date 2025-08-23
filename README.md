@@ -2,7 +2,7 @@
 
 <h2>Hi There!</h2>
 
-<p><b>Python Developer </b> with a strong focus on backend development, APIs, and automation.  
+<p style="font-size: 18px; color: #555;"><b>Python Developer </b> with a strong focus on backend development, APIs, and automation.  
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
 </p>
 
