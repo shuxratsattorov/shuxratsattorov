@@ -1,11 +1,11 @@
 <img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image"/> 
 
-<div align="left">
+<span align="left">
   <h2>Hi There!</h2>
-</div>
-<div align="right">
+</span>
+<span align="right">
   <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="shuxratsattorov" />
-</div>
+</span>
 
 <p><b>Python Developer </b> with a strong focus on backend development, APIs, and automation.  
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
