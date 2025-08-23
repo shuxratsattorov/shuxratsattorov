@@ -7,7 +7,6 @@
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
 </p>
 
-<a>
 <ul>
   <li>🏢 Company <a href="https://t.me/storyshadowbot">Mars IT school</a></li>
   <li>🔭 I’m currently working on <a href="https://t.me/storyshadowbot">Story Shadow Bot</a></li>
@@ -15,12 +14,11 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
   <li>📫 Email <b>shuhratsattorov2004@gmail.com</b></li>
   <li>📞 Phone <b>+998(90)427-83-39</b></li>
 </ul>
-</a>
 
 <h3 align="left">Social:</h3
 
 <a><img width="30" height="30" alt="image1" src="https://github.com/user-attachments/assets/0a690376-d2ec-414b-ac3e-89416e0b74e0" /></a>
-<a><img width="30" height="30" alt="image2" src="https://github.com/user-attachments/assets/6b18d3d7-cb90-4866-9459-f6159b2f5d75" /></a>
+<a><img width="30" height="30" alt="image2" src="https://github.com/user-attachments/assets/fab88fab-410b-4854-afe7-5ca0728588fe" /></a>
 <a><img width="30" height="30" alt="image3" src="https://github.com/user-attachments/assets/fb344faf-9a1d-4eda-b96e-757c51efca6d" /></a>
 
 
