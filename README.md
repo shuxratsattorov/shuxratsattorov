@@ -6,11 +6,11 @@
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
 </p>
 
-<table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+<table cellpadding="0" cellspacing="0" border="0" style="border: none; outline: none;">
   <tr>
     <td valign="top">
       <ul>
-        <li>🏢 Company<a href="https://t.me/storyshadowbot"> Mars IT school</a></li>
+        <li>🏢 Company <a href="https://t.me/storyshadowbot">Mars IT school</a></li>
         <li>🔭 I’m currently working on <a href="https://t.me/storyshadowbot">Story Shadow Bot</a></li>
         <li>🌱 I’m currently learning <b>Go (Golang)</b></li>
         <li>📫 Email <b>shuhratsattorov2004@gmail.com</b></li>
