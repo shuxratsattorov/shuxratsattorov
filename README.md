@@ -1,10 +1,9 @@
-<a>
 <img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image">
-</a>
 
 <h2>Hi There!</h2>
 
-<p><b>Python Developer </b> with a strong focus on backend development, APIs, and automation.  
+<p>
+  <b>Python Developer </b> with a strong focus on backend development, APIs, and automation.  
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
 </p>
 
@@ -16,7 +15,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
   <li>📞 Phone <b>+998(90)427-83-39</b></li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://instagram.com/strv.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="str.13" height="30" width="40" /></a>
 </p>
