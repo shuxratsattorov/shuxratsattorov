@@ -2,8 +2,6 @@
 
 <h2>Hi There!</h2><br>
 
-<img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-
 <p><b>Python Developer </b> with a strong focus on backend development, APIs, and automation.  
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
 </p>
@@ -75,3 +73,5 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
