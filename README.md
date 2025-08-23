@@ -6,13 +6,11 @@
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
 </p>
 
-<ul style="display: inline;">
-  <li style="display: inline; margin-right: 10px;">🏢 Company <a href="https://t.me/storyshadowbot">Mars IT school</a></li>
-  <li style="display: inline; margin-right: 10px;">🔭 I’m currently working on <a href="https://t.me/storyshadowbot">Story Shadow Bot</a></li>
-  <li style="display: inline; margin-right: 10px;">🌱 I’m currently learning <b>Go (Golang)</b></li>
-  <li style="display: inline; margin-right: 10px;">📫 Email <b>shuhratsattorov2004@gmail.com</b></li>
-  <li style="display: inline; margin-right: 10px;">📞 Phone <b>+998(90)427-83-39</b></li>
-</ul>
+<div style="display: inline; margin-right: 20px;">🏢 Company <a href="https://t.me/storyshadowbot">Mars IT school</a></div>
+<div style="display: inline; margin-right: 20px;">🔭 I’m currently working on <a href="https://t.me/storyshadowbot">Story Shadow Bot</a></div>
+<div style="display: inline; margin-right: 20px;">🌱 I’m currently learning <b>Go (Golang)</b></div>
+<div style="display: inline; margin-right: 20px;">📫 Email <b>shuhratsattorov2004@gmail.com</b></div>
+<div style="display: inline; margin-right: 20px;">📞 Phone <b>+998(90)427-83-39</b></div>
 
 <a href="https://github.com/shawnstanton">
   <img
