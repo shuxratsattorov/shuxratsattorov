@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image" style="pointer-events: none;">
+<img src="https://i.postimg.cc/jS4TpPG4/banner-1000x250.png" alt="image">
 
 <h2>Hi There!</h2>
 
@@ -6,7 +6,7 @@
 I enjoy building scalable solutions, writing clean and maintainable code, and contributing to open-source projects.
 </p>
 
-<table cellpadding="0" cellspacing="0" border="0">
+<table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
   <tr>
     <td valign="top">
       <ul>
@@ -24,7 +24,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
           alt="Top Languages for shawnstanton"
           loading="lazy"
           width="320"
-          hight="10"
+          height="10"
         />
       </a>
     </td>
