@@ -16,6 +16,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 </ul>
 
 <h3>Social:</h3>
+<hr>
 
 <a><img width="30" height="30" alt="image1" src="https://github.com/user-attachments/assets/0a690376-d2ec-414b-ac3e-89416e0b74e0" /></a>
 <a><img width="30" height="30" alt="image2" src="https://github.com/user-attachments/assets/fab88fab-410b-4854-afe7-5ca0728588fe" /></a>
@@ -23,6 +24,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 
 
 <h3>Technical Skills</h3>
+<hr>
 
 <p>
 <b>💻 Languages</b><br>
