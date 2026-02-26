@@ -32,7 +32,7 @@ Python · Go (Golang)
 
 <p>
 <b>🚀 Frameworks</b><br>
-Django · DRF · Fastapi, Aiogram
+Django · DRF · Fastapi · Aiogram
 </p>
 
 <p>
