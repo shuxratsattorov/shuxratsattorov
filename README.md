@@ -16,11 +16,11 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 </ul>
 
 
-<h2>Social:</h2>
+<!-- <h2>Social:</h2>
 
 <a><img width="30" height="30" alt="image1" src="https://github.com/user-attachments/assets/0a690376-d2ec-414b-ac3e-89416e0b74e0" /></a>
 <a><img width="30" height="30" alt="image2" src="https://github.com/user-attachments/assets/fab88fab-410b-4854-afe7-5ca0728588fe" /></a>
-<a><img width="30" height="30" alt="image3" src="https://github.com/user-attachments/assets/fb344faf-9a1d-4eda-b96e-757c51efca6d" /></a>
+<a><img width="30" height="30" alt="image3" src="https://github.com/user-attachments/assets/fb344faf-9a1d-4eda-b96e-757c51efca6d" /></a> -->
 
 
 <h2>Technical Skills</h2>
