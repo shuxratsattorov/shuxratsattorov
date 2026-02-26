@@ -26,51 +26,23 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 
 <p>
 <b>💻 Languages</b><br>
-Python · Go (Golang) · HTML5 · CSS3
+Python · Go (Golang)
 </p>
 
 <p>
 <b>🚀 Frameworks</b><br>
-Django · Bootstrap
+Django · DRF · Fastapi
 </p>
 
 <p>
 <b>🗄 Databases</b><br>
-PostgreSQL · SQLite
+PostgreSQL · SQLite · Redis
 </p>
 
 <p>
 <b>🧰 Tools</b><br>
-Docker · Git · Postman · Figma
+Git · Docker · Postman · Linux
 </p>
 
-<!-- <h2>🛠 Technical Skills</h2>
-
-<table border="0" cellpadding="6">
-  <tr>
-    <th align="left">💻 Languages</th>
-    <th align="left">🚀 Frameworks</th>
-    <th align="left">🗄 Databases</th>
-    <th align="left">🧰 Tools</th>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Django</td>
-    <td>PostgreSQL</td>
-    <td>Git</td>
-  </tr>
-  <tr>
-    <td>Go</td>
-    <td>DRF</td>
-    <td>Redis</td>
-    <td>Docker</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Fastapi</td>
-    <td>SQLite</td>
-    <td>Linux</td>
-  </tr>
-</table> -->
 
 <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
