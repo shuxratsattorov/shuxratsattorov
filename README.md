@@ -24,6 +24,28 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 
 <h2>🛠 Technical Skills</h2>
 
+<p>
+<b>💻 Languages</b><br>
+Python · Go (Golang) · HTML5 · CSS3
+</p>
+
+<p>
+<b>🚀 Frameworks</b><br>
+Django · Bootstrap
+</p>
+
+<p>
+<b>🗄 Databases</b><br>
+PostgreSQL · SQLite
+</p>
+
+<p>
+<b>🧰 Tools</b><br>
+Docker · Git · Postman · Figma
+</p>
+
+<!-- <h2>🛠 Technical Skills</h2>
+
 <table border="0" cellpadding="6">
   <tr>
     <th align="left">💻 Languages</th>
@@ -49,6 +71,6 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
     <td>SQLite</td>
     <td>Linux</td>
   </tr>
-</table>
+</table> -->
 
 <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
