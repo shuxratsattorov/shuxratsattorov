@@ -45,5 +45,6 @@ PostgreSQL · SQLite · Redis
 Git · Docker · Postman · Linux
 </p>
 
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=shuxratsattorov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="18"/>
