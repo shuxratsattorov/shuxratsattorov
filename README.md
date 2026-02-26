@@ -24,7 +24,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 
 <h2>🛠 Technical Skills</h2>
 
-<table>
+<table border="0" cellpadding="6">
   <tr>
     <th align="left">💻 Languages</th>
     <th align="left">🚀 Frameworks</th>
