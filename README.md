@@ -38,7 +38,7 @@ Django · DRF · Fastapi · Aiogram
 <p>
 <b>🗄 Databases</b><br>
 PostgreSQL · SQLite · Redis
-</p>
+</p> 
 
 <p>
 <b>🧰 Tools</b><br>
