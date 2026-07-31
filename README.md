@@ -27,7 +27,7 @@ I enjoy building scalable solutions, writing clean and maintainable code, and co
 
 <p>
 <b>💻 Languages</b><br>
-Python · Go (Golang)
+Python · C# · Go
 </p>
 
 <p>
